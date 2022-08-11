@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Nur Wahid Bimawan</h1>
 <h3 align="center">I'm Front End Developer From Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif">
+<img align="right" alt="Coding" width="600" src="https://c.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif">
 
 
 - 🔭 I’m studying at **SMK RUS**
