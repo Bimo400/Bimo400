@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Nur Wahid Bimawan</h1>
 <h3 align="center">I'm Front End Developer From Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://c.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif" alt="bimo400" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media3.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif?cid=6c09b952d0cffa1ee063dd711b9eb976940dc1e0b115d873&rid=giphy.gif&ct=g" /></a> </p>
 
 - 🔭 I’m studying at **SMK RUS**
 
